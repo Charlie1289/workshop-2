@@ -8,7 +8,7 @@ a3 = 0.2
 x0 = 3.1
 
 
-p_prime = # ...
+p_prime = p_prime = a1+2*a2*x0+3*a3*x0^2
 
 
 
